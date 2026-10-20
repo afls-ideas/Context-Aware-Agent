@@ -3,6 +3,8 @@
 Agentforce employee agent `Context_Aware_Agent` for field reps. It starts from the page context the iPad app passes
 (`currentRecordId`, `currentObjectApiName`, `currentPageType`, `territoryId`) and covers the core field-rep user stories.
 
+![Context Aware Agent on the iPad answering "Which account am I on?"](docs/context-aware-agent-ipad.png)
+
 ## Deploy
 
 ```bash
