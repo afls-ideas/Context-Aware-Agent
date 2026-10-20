@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Active__c</fullName>
+    <label>Active</label>
+    <required>false</required>
+    <defaultValue>true</defaultValue>
+    <description>Only active rows are updatable.</description>
+    <type>Checkbox</type>
+</CustomField>

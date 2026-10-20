@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <agentAccesses>
+        <agentName>Context_Aware_Agent</agentName>
+        <enabled>true</enabled>
+    </agentAccesses>
+    <description>Grants access to the Context Aware Agent. Deploy after the agent is published.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Context Aware Agent - Agent Access</label>
+</PermissionSet>

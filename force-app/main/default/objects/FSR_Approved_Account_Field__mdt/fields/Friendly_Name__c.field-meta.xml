@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Friendly_Name__c</fullName>
+    <label>Friendly Name</label>
+    <required>false</required>
+    <length>100</length>
+    <description>Name the rep uses for the field, e.g. Adoption Status.</description>
+    <type>Text</type>
+</CustomField>
